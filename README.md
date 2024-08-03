@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadaf-esmaeili-rad)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sadafismaeili@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/sadaf-rad)
+[![Github](https://img.shields.io/github/followers/sadaf-rad?label=Follow&style=social)](https://github.com/sadaf-rad)
 
 
 - 📫 How to reach me: sadafismaeili@gmail.com
