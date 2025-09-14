@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- 📫 You can reach me by:
+# 📫 You can reach me by:
 
 
   
