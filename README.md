@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Sadaf Esmaeili Rad
 
 ## 🤖 Curious about me ?
-👉 [Click here and ask anything about me: ](https://about-sadaf-uqrun8qsd7rhsxevkwbvly.streamlit.app)
+👉 [Click here and ask anything about me :) ](https://about-sadaf-uqrun8qsd7rhsxevkwbvly.streamlit.app)
 
 
 
