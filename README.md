@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 👉 [Click here and ask anything about me: ](https://about-sadaf-uqrun8qsd7rhsxevkwbvly.streamlit.app)
 
 
-- 📫 How to reach me: 
+- 📫 You can reach me by:
+
+
+  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadaf-esmaeili-rad)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sadafismaeili@gmail.com)
 
