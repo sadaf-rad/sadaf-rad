@@ -4,8 +4,6 @@
 **sadaf-rad/sadaf-rad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## 🤖 Curious about me ?
-👉 [Click here and ask anything about me: ](https://about-sadaf-uqrun8qsd7rhsxevkwbvly.streamlit.app)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # Sadaf Esmaeili Rad
 
+## 🤖 Curious about me ?
+👉 [Click here and ask anything about me: ](https://about-sadaf-uqrun8qsd7rhsxevkwbvly.streamlit.app)
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sadaf-esmaeili-rad)
